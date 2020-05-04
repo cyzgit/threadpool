@@ -1,11 +1,3 @@
-//
-//  task.h
-//  qiuniu
-//
-//  Created by 陈玉仲 on 2020/5/4.
-//  Copyright © 2020 陈玉仲. All rights reserved.
-//
-
 #ifndef task_h
 #define task_h
 
