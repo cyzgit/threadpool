@@ -1,2 +1,2 @@
-# little-thread-pool
+# thread-pool
 a thread poll
